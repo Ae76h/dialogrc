@@ -1,0 +1,3 @@
+# dialogrc
+
+Yok Ndak Tau
