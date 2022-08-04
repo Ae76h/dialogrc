@@ -1,4 +1,4 @@
-# created By mamang tampan
+# created by : 
 ![IMG_20220805_023840](https://user-images.githubusercontent.com/70370681/182930826-5a6138f4-8bd5-4c32-84fb-975136e77fda.jpg)
 
 # install
